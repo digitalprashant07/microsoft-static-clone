@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+Live link:- https://microsoft-static-clone.vercel.app/
+
+![image](https://user-images.githubusercontent.com/107924807/219584903-bfe9120d-0a1f-4c0b-913d-ae98d5400899.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
